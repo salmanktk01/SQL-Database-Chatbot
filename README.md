@@ -1,4 +1,4 @@
-##LangChain:SQL Database Chatbot
+**LangChain:SQL Database Chatbot **
 
 This project is a Streamlit-based chatbot application that allows users to interact with SQL databases using LangChain. It supports both SQLite and MySQL databases and leverages a large language model (LLM) from Groq for natural language processing.
 
@@ -29,3 +29,19 @@ SQLAlchemy
 SQLite3
 
 MySQL Connector (if using MySQL)
+
+Configuration
+
+SQLite: The default database is student.db.
+
+MySQL: Provide MySQL credentials via the sidebar.
+
+Usage
+
+Select the database type (SQLite or MySQL) from the sidebar.
+
+If using MySQL, enter the required credentials.
+
+Type your query in the chat input box.
+
+Receive responses from the LLM-powered chatbot.
