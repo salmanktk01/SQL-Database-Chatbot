@@ -10,12 +10,12 @@ LLM Support: Leverages the Llama3-8b-8192 model for intelligent responses.
 
 ## Requirements
 Ensure you have the following installed:
-Python 3.x
-Streamlit
-LangChain
-SQLAlchemy
-SQLite3
-MySQL Connector (if using MySQL)
+- Python 3.x
+- Streamlit
+- LangChain
+- SQLAlchemy
+- SQLite3
+- MySQL Connector (if using MySQL)
 
 ## Configuration
 SQLite: The default database is student.db.
